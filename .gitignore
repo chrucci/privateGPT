@@ -27,4 +27,4 @@ __pycache__/
 
 # macOS
 .DS_Store
-settings_openai.yaml
+settings-openai.yaml
